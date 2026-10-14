@@ -1,0 +1,18 @@
+From: Account Security <security@paypaI.example>
+To: user@example.com
+Subject: URGENT! Your account will be suspended
+
+Dear Customer,
+
+We detected unusual activity on your account.
+
+Your account will be suspended within 24 hours unless you
+verify your information immediately.
+
+Click the link below to restore access:
+https://account-verify.example.com
+
+Failure to respond may result in permanent account restriction.
+
+Thank you,
+Account Security Team
